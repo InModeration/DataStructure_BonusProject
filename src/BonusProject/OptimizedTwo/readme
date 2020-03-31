@@ -1,0 +1,6 @@
+package OptimizedTwo涵盖了三个类,每个类中都有一个public的静态方法：
+1.class PivotAndInsert 中有枢值优化以及结合插入排序的快速排序方法
+2.class PivotAndStack  中有枢值优化以及栈循环代替递归的快速排序方法
+3.class StackAndInsert 中有结合插入排序以及栈循环的快速排序方法
+
+亦有一个获取排序时间的方法

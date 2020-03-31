@@ -1,0 +1,10 @@
+package OptimizedOne涵盖了三个类：
+1.BetterPivotQuickSort
+2.InsertAndQuickSort
+3.StackQuickSort
+每个类中都有一个public的静态方法，分别是：
+找寻更好枢值的快速排序
+结合插入排序的快速排序
+利用栈循环代替递归的快速排序
+
+每个类有获取排序时间的方法
